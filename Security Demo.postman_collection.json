@@ -1,0 +1,67 @@
+{
+	"variables": [],
+	"info": {
+		"name": "Security Demo",
+		"_postman_id": "0723077e-c685-3985-0a9d-ad418d984271",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get Users",
+			"request": {
+				"url": "http://localhost:5000/api/users/all",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Register user",
+			"request": {
+				"url": "http://localhost:5000/api/users/register?username=user&password=parola&email=user@email.com",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Login user",
+			"request": {
+				"url": "http://localhost:5000/api/users/login?username=user&password=parola",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Get decrypted users",
+			"request": {
+				"url": "http://localhost:5000/api/users/allDecrypted",
+				"method": "GET",
+				"header": [
+					{
+						"key": "token",
+						"value": "",
+						"description": ""
+					}
+				],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
