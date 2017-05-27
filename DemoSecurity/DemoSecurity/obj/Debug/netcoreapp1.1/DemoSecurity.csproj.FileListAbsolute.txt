@@ -1,0 +1,18 @@
+c:\users\dzanet\documents\visual studio 2017\Projects\DemoSecurity\DemoSecurity\bin\Debug\netcoreapp1.1\DemoSecurity.deps.json
+c:\users\dzanet\documents\visual studio 2017\Projects\DemoSecurity\DemoSecurity\bin\Debug\netcoreapp1.1\DemoSecurity.runtimeconfig.json
+c:\users\dzanet\documents\visual studio 2017\Projects\DemoSecurity\DemoSecurity\bin\Debug\netcoreapp1.1\DemoSecurity.runtimeconfig.dev.json
+c:\users\dzanet\documents\visual studio 2017\Projects\DemoSecurity\DemoSecurity\obj\Debug\netcoreapp1.1\DemoSecurity.csprojResolveAssemblyReference.cache
+c:\users\dzanet\documents\visual studio 2017\Projects\DemoSecurity\DemoSecurity\obj\Debug\netcoreapp1.1\DemoSecurity.AssemblyInfo.cs
+c:\users\dzanet\documents\visual studio 2017\Projects\DemoSecurity\DemoSecurity\bin\Debug\netcoreapp1.1\DemoSecurity.dll
+c:\users\dzanet\documents\visual studio 2017\Projects\DemoSecurity\DemoSecurity\bin\Debug\netcoreapp1.1\DemoSecurity.pdb
+c:\users\dzanet\documents\visual studio 2017\Projects\DemoSecurity\DemoSecurity\obj\Debug\netcoreapp1.1\DemoSecurity.dll
+c:\users\dzanet\documents\visual studio 2017\Projects\DemoSecurity\DemoSecurity\obj\Debug\netcoreapp1.1\DemoSecurity.pdb
+C:\Users\dzanet\Source\Repos\DevSecurityWorkshop\DemoSecurity\DemoSecurity\bin\Debug\netcoreapp1.1\DemoSecurity.deps.json
+C:\Users\dzanet\Source\Repos\DevSecurityWorkshop\DemoSecurity\DemoSecurity\bin\Debug\netcoreapp1.1\DemoSecurity.runtimeconfig.json
+C:\Users\dzanet\Source\Repos\DevSecurityWorkshop\DemoSecurity\DemoSecurity\bin\Debug\netcoreapp1.1\DemoSecurity.runtimeconfig.dev.json
+C:\Users\dzanet\Source\Repos\DevSecurityWorkshop\DemoSecurity\DemoSecurity\bin\Debug\netcoreapp1.1\DemoSecurity.dll
+C:\Users\dzanet\Source\Repos\DevSecurityWorkshop\DemoSecurity\DemoSecurity\bin\Debug\netcoreapp1.1\DemoSecurity.pdb
+C:\Users\dzanet\Source\Repos\DevSecurityWorkshop\DemoSecurity\DemoSecurity\obj\Debug\netcoreapp1.1\DemoSecurity.csprojResolveAssemblyReference.cache
+C:\Users\dzanet\Source\Repos\DevSecurityWorkshop\DemoSecurity\DemoSecurity\obj\Debug\netcoreapp1.1\DemoSecurity.AssemblyInfo.cs
+C:\Users\dzanet\Source\Repos\DevSecurityWorkshop\DemoSecurity\DemoSecurity\obj\Debug\netcoreapp1.1\DemoSecurity.dll
+C:\Users\dzanet\Source\Repos\DevSecurityWorkshop\DemoSecurity\DemoSecurity\obj\Debug\netcoreapp1.1\DemoSecurity.pdb
